@@ -10,10 +10,10 @@ Hello, how are you? thank you for checking my dataset here on github, i'm very h
 
 
 Columns:
-nome - name of car
-valor - price of car
-marca - car brand
-categoria - category 
-loc - sale localization 
-ano - year of manufacture
-km_rodados - mileage
+nome - name of car||
+valor - price of car||
+marca - car brand||
+categoria - category ||
+loc - sale localization ||
+ano - year of manufacture||
+km_rodados - mileage||
